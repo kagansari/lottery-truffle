@@ -6,7 +6,7 @@
 
 
 
-##Installation
+## Installation
 
 ```sh
 # install dependencies truffle and ganache-cli
@@ -20,7 +20,7 @@ npm install
 
 
 
-##Assumptions
+## Assumptions
 
 - Period can be optional. We decided to define period of the lottery as the parameter `_period` in constructor function. This way we can simulate the life cycle of the contract much faster. Period is given by deployer and must be divisible by 2 since each stage is half-period.
 - At least 3 participants are required. Otherwise reward is added back to the balances of participants. They can withdraw their money afterwards.
