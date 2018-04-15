@@ -1,0 +1,19 @@
+{
+  "name": "homework-1-kagansari",
+  "version": "0.0.1",
+  "description": "CMPE 483 Sp. Top. in CMPE Blockchain Programming Spring 2018",
+  "scripts": {
+    "test": "./node_modules/.bin/truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMPE483-Blockchain-Spring-2018-Bogazici/homework-1-kagansari.git"
+  },
+  "author": "Kagan Sari, Sevda Copur, Ugur Tas",
+  "homepage": "https://github.com/CMPE483-Blockchain-Spring-2018-Bogazici/homework-1-kagansari#readme",
+  "private": true,
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "truffle": "^4.1.5"
+  }
+}
