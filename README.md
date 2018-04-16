@@ -6,6 +6,10 @@
 
 
 
+
+__Note:__ An extended version of this documentation is also available in the root directory as "Report.pdf".
+
+
 ## Installation
 
 ```sh
