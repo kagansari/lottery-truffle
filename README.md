@@ -2,7 +2,7 @@
 
 - Kağan Sarı - 2011400207
 - Sevda Çopur - 2012400054
-- Uğur Baş - 2017700132
+- Mahmut Uğur Taş - 2017700132
 
 
 
